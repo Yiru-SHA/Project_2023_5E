@@ -3,7 +3,7 @@ the main __HomePage__ are the [wiki](https://github.com/Yiru-SHA/Project_2023_5E
 
 > This is placeholder
 > 
-> [Test Link](https://www.dreamsongs.com/), science is not enough.
+> [Test Link](https://docs.gitlab.com/ee/user/project/wiki/), How to use WIKI.
 
 ## Project information
 
